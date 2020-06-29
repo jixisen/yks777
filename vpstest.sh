@@ -64,7 +64,7 @@ start_menu(){
     clear
 	green "=========================================================="
      blue " 本脚本支持：CentOS7+ / Debian9+ / Ubuntu16.04+"
-	 blue " 网站：一棵树789（www.yks789.com） "
+	 blue " 网站：www.yks789.com "
      blue " 此脚本源于网络，希森只是汇聚脚本功能，方便大家使用而已！"
 	green "=========================================================="
    yellow " 简介：VPS综合性能测试脚本 （包含性能、速度、回程路由）"
@@ -103,4 +103,5 @@ start_menu(){
     esac
 }
 
+start_menu
 start_menu
